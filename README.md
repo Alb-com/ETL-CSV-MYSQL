@@ -2,7 +2,7 @@
 This project demonstrates a data integration pipeline for an e-commerce business. It was developed as an exercise in data extraction from CSV files, data transformation and loading into MySQL, and query execution to generate insights. Additionally, the project includes exporting query results back into CSV files to showcase data manipulation and reporting skills.
 
 ## 📃​ Datasets
-E-Commerce Sales Analysis Data:
+[📂 View CSV](./data)
 
 ## 🧪 Tools used
 - Python (Pandas,Numpy)
