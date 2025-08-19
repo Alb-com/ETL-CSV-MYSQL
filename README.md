@@ -1,7 +1,7 @@
 # ETL-CSV-MYSQL📊​
 This project simulates a sales analysis for a fictional e-commerce business. It was developed as an exercise in exploratory data analysis, data cleaning, and business KPI visualization.
 
-## 📃​ Dataset
+## 📃​ Datasets
 E-Commerce Sales Analysis Data:
 
 ## 🧪 Tools used
