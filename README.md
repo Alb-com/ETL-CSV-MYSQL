@@ -18,15 +18,15 @@ E-Commerce Sales Analysis Data:
 - Export of query results back into CSV files for further analysis.
 ## 📈 Query-exports
 👉 Retrieves all customers whose country is United States.
-
+data/export_query_data/query_customers.csv
 👉 Displays order items where customers bought more than 2 units and each unit costs less than 500.
-
+data/export_query_data/query_item_order.csv
 👉 Calculates how much each customer has spent and how many orders they placed in the last year, sorted from highest to lowest spender.
-
+data/export_query_data/query_orders.csv
 👉 Lists all products sorted by price from highest to lowest.
-
+data/export_query_data/query_products.csv
 👉 Retrieves all reviews from the year 2025, ordered from highest to lowest rating.
-
+data/export_query_data/query_reviews.csv
 ## 🧠 Lessons Learned
 - Knowledge and practice of SQL for querying and managing relational databases.
 - Building a simple ETL pipeline: extracting data from CSV files, transforming it, and loading it into MySQL.
